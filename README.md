@@ -1,5 +1,5 @@
 # Assignment-7-JavaFX-Calculator
-Assignment-7-JavaFX-Calculator
+
 This project is a simple calculator built using JavaFX for the graphical user interface (GUI) and Java to handle arithmetic operations.
 
 Main Features:
